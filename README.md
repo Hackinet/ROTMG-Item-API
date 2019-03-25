@@ -16,3 +16,6 @@ or
 
 ## Extra
 * The item id of empty slot is `-1` or if the passed item id doesn't exit, it would be considered -1.
+
+## Live Example
+* https://hackinet.github.io/ROTMG-ITEM-API/
